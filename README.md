@@ -9,7 +9,7 @@ This project uses OpenCV and pandas to detect colors in images.
 
 ## How to Run
 1. Install dependencies: `pip install pandas opencv-python`
-2. Run the script: `python main.py`
+2. Run the script: `color_detection.ipynb`
 
 ## Files
 - `colors.csv`: Contains color data.
